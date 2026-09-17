@@ -1,0 +1,1 @@
+document.querySelectorAll('nav a, .button').forEach(a=>a.addEventListener('click',()=>{}));
